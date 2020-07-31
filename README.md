@@ -4,6 +4,8 @@ Segundo "projetin" simples iniciado nessa *Quarentine* para matar a vontade de c
 
 Feito com amor e carinho para meu filho Naruteiro(:fish_cake:igual a mamãe:ramen:) para ajudar nos estudos.
 
+Os créditos vão para o Time da [HCode](https://github.com/hcodebr) que disponibilizou o projeto no curso HTML completo com Projetos Práticos Web [Veja aqui](https://hcode.com.br/cursos/HTML5)
+
 * Usado HTML, CSS3 e framework Bootstrap.
 * A lógica desenvolvida em JavaSCript
 
